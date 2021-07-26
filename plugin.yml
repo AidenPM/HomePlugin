@@ -1,0 +1,5 @@
+name: HomePlugin
+author: pju6791
+version: 3.0.0 
+api: 3.0.0 
+main: pju6791\HomePlugin\HomePlugin
